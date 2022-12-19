@@ -100,7 +100,7 @@ Empar ha afegit el mètode que desitja: "Bon Nadal i Feliç Any Nou.  Pau i Salu
 #### AlumneFila4 PC3:
 
 
-#### AlumneFila4 PC4:
+#### AlumneFila4 PC4: Daniel, he añadido una felicitación navideña al java.
 
 
 #### AlumneFila4 PC5:
