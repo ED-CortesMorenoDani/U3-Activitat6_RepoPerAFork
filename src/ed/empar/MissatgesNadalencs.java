@@ -190,7 +190,7 @@ public class MissatgesNadalencs {
 	}
 
 	private static void AlumneFila4PC4() {
-	System.out.println("Daniel, Feliz Navidad Empar, que los reyes magos y el bueno del papá 						Noel te traigan muchos regalos y para mi un aprobado :)");
+	System.out.println();
 
 	}
 
